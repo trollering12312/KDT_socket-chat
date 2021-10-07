@@ -2,6 +2,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,node,visualstudio,vim
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,node,visualstudio,vim
 
+README.md
+
 ### Node ###
 # Logs
 logs
