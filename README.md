@@ -54,3 +54,9 @@ ejs는 node.js의 템플릿 엔진으로 문법이 간단하고 서버의 데이
 `app.js, chat.js, chatroom.ejs, chat.css` 수정
 
 `http://localhost:3000/chat`으로 접속해 확인
+
+12. 사용자 연결 처리
+
+11번 URL접속시 `A user is now connected`로 연결 확인 가능
+
+13. 연결 해제
