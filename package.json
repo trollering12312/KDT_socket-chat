@@ -1,0 +1,19 @@
+{
+  "name": "kdt_socket-chat",
+  "version": "1.0.0",
+  "description": "app.js 작성후",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trollering12312/KDT_socket-chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trollering12312/KDT_socket-chat/issues"
+  },
+  "homepage": "https://github.com/trollering12312/KDT_socket-chat#readme"
+}
