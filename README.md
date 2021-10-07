@@ -47,3 +47,26 @@ ejs는 node.js의 템플릿 엔진으로 문법이 간단하고 서버의 데이
 
 ---
 
+### socket
+
+11. socket을 위한 렌더링
+
+`app.js, chat.js, chatroom.ejs, chat.css` 수정
+
+`http://localhost:3000/chat`으로 접속해 확인
+
+12. 사용자 연결 처리
+
+11번 URL접속시 `A user is now connected`로 연결 확인 가능
+
+13. 연결 해제
+
+다른 페이지로 이동하거나 연결이 끊기면 메세지 출력
+
+14. 채팅 입력값 받아오기
+
+채팅 값을 받아와서 콘솔에 출력
+
+15. 화면에 받아온 채팅 내용을 출력
+
+
