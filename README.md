@@ -47,3 +47,10 @@ ejs는 node.js의 템플릿 엔진으로 문법이 간단하고 서버의 데이
 
 ---
 
+### socket
+
+11. socket을 위한 렌더링
+
+`app.js, chat.js, chatroom.ejs, chat.css` 수정
+
+`http://localhost:3000/chat`으로 접속해 확인
